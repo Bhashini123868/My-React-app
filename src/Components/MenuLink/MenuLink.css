@@ -1,0 +1,4 @@
+.link{color: rgb(6, 128, 234); text-decoration: none;
+padding: 3px 16px;}
+.link-hover{background-color: black;
+padding: 3px 16px; text-decoration: none; border-radius: 13px;}

@@ -10,7 +10,12 @@ function App() {
     <p className="p">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem vero dolores similique sequi ea rem quas earum quidem. Itaque qui architecto cum delectus quisquam nisi temporibus quas voluptatem doloremque placeat!</p> */}
     <div id="wrapper">
     <Header/>
-    <Body/>
+    <Body>
+      <button>Click here</button>
+    </Body>
+    <Body>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ad culpa sapiente iste quod labore fugit odit voluptatibus saepe praesentium mollitia suscipit, a itaque amet nobis qui odio architecto eum!</p>
+    </Body>
     <Footer/>
 
     </div>
