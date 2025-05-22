@@ -17,6 +17,7 @@ function App() {
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ad culpa sapiente iste quod labore fugit odit voluptatibus saepe praesentium mollitia suscipit, a itaque amet nobis qui odio architecto eum!</p>
     </Body>
     <Footer/>
+    <button>Click 1</button>
 
     </div>
     </>
